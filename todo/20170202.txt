@@ -1,0 +1,3 @@
+-White-Box, Black-Box, Funktionstest, Oberflächentest, Lasttest
+-Struktogramm vs. PAP
+-Debugger
