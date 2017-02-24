@@ -1,0 +1,3 @@
+-Festlegen der Formatvorlage, Farben, Design der Projektdoku
+-Suchen und Finden eines kostenlosen, geeigneten UML-Tools (violetumleditor) zum Üben und Erstellen benötigter Diagramme
+-Führen des Ausbildungsnachweises
